@@ -1,0 +1,29 @@
+.logo{
+    width: 28px;
+}
+
+.company-name{
+    color: #61cc02;
+}
+
+.nav-link{
+    position: relative;
+}
+
+.nav-icon-question{
+    position: absolute;
+    left: 15px;
+    top: 6px;
+}
+
+.nav-icon-bell{
+    position: absolute;
+    left: 50px;
+    top: 10px;
+}
+
+.nav-icon-person{
+    position: absolute;
+    left: 20px;
+    top: 10px;
+}
