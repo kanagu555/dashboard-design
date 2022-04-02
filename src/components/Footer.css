@@ -1,0 +1,8 @@
+.footer-bar{
+    position: fixed;
+    left: 0px;
+    bottom: 0px;
+    width: 100%;
+    box-shadow: inset 0px 8px 6px -6px #888;
+    border-radius: 20px 20px 0px 0px;
+}
