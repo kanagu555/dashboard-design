@@ -1,0 +1,10 @@
+.side-border {
+  background-color: white;
+  list-style: none;
+  margin-top: 2rem;
+  margin-left: 1rem;
+  margin-bottom: 5rem;
+  width: 20px;
+  display: flex;
+  flex-direction: column;
+}
