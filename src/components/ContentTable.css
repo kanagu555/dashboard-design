@@ -1,0 +1,11 @@
+.flex-center-div{
+    position: relative;
+}
+
+.flex-center-table{
+    position: absolute;
+    right: 10rem;
+    top: 25rem;
+    width: 60%;
+}
+
