@@ -6,7 +6,7 @@ const Footer = () => {
   return (
       <Navbar bg="light" className="footer-bar">
         <Container>
-          <Nav>
+          <Nav className="footer-flex">
             <Nav.Link>Copyright &#169; {new Date().getFullYear()} Digital East GmbH</Nav.Link>
             <Nav.Link>Imprint</Nav.Link> |
             <Nav.Link>Privacy Policy</Nav.Link> |
