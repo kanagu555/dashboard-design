@@ -1,17 +1,20 @@
 import React from "react";
-import 'bootstrap/dist/css/bootstrap.min.css';
+import "bootstrap/dist/css/bootstrap.min.css";
 import NavbarHeader from "./components/NavbarHeader";
 import Footer from "./components/Footer";
 import Sidebar from "./components/Sidebar";
 import ContentTable from "./components/ContentTable";
+import './App.css'
 
 function App() {
   return (
     <div>
-        <NavbarHeader />
+      <NavbarHeader />
+      <div className="flex-center">
         <Sidebar />
         <ContentTable />
-        <Footer />
+      </div>
+      <Footer />
     </div>
   );
 }

@@ -1,11 +1,23 @@
-.flex-center-div{
-    position: relative;
+.table-nav{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
-.flex-center-table{
-    position: absolute;
-    right: 10rem;
-    top: 25rem;
-    width: 60%;
+.table-title{
+    color: #656768;
 }
 
+.input-field{
+    border-radius: 5rem;
+    width: 30rem;
+    background-color: #c6c8c9;
+}
+
+.bar-color{
+    background-color: #656768;
+}
+
+.table-bottem-text{
+    display: flex;
+}
